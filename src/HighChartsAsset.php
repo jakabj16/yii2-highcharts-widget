@@ -26,5 +26,6 @@ class HighChartsAsset extends AssetBundle
 
     public $js = [
         'highcharts.src.js',
+        'highcharts-more.src.js',
     ];
 }
