@@ -28,7 +28,7 @@
     },
     "require": {
         "yiisoft/yii2": "*",
-        "bower-asset/highcharts-release": "8.*"
+        "bower-asset/highcharts-release": "8.1.*"
     },
     "require-dev": {
         "phpunit/phpunit": "4.*",
